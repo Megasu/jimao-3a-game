@@ -1,4 +1,4 @@
-# 几猫国产 3A 大作
+# Saltline：单文件 3D 射击游戏（中文版本）
 
 **约 1.4 MB，一个 HTML 文件，一款无需联网的单机 3D 射击游戏。**
 
@@ -7,6 +7,19 @@
 [在线试玩](https://jimao-3a-game.vercel.app) · [下载游戏 HTML](https://github.com/Megasu/jimao-3a-game/raw/refs/heads/main/index.html) · [GitHub](https://github.com/Megasu/jimao-3a-game) · [Gitee](https://gitee.com/Megasu/jimao-3a-game)
 
 > 游戏本体 `index.html` 为 **1,425,707 字节，约 1.43 MB（1.36 MiB）**。下载到本地后可离线运行；在线试玩链接首次打开需要网络加载页面。仓库中的展示截图仅用于 README，不是游戏运行所需的素材，也不计入游戏本体大小。
+
+## 来源与版本说明
+
+原始案例为 **Saltline**，收录于署名 **Felix Rieseberg** 的 [Three Games 案例合集](https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin)。合集页面介绍这些游戏使用 Claude Fable 5.2 制作。
+
+- [Saltline 案例页面](https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp)
+- [未经人工反馈的初版](https://claude.ai/artifact/2UXyB49DrVHFfhTMdNDFTA)
+
+当前 Saltline 案例页面注明：初版由 Claude 一次生成、未接受人工反馈；Felix 随后又花了两小时改进武器模型、声音和玩法。因此，初版与当前案例页面的版本需要区分。
+
+本仓库收录的是收到的中文 HTML 文件，用于案例展示与技术学习，并非本仓库作者原创。文件与截图中的“几猫国产 3A 大作”“自主研发”等文字来自收到的版本，不应作为原作名称、作者归属或开发来源的依据。现有仓库地址沿用历史名称，原作名称以 **Saltline** 为准。
+
+本仓库尚未与原始案例源码逐项比对，不声明与上述初版或当前版本完全一致。本文的约 1.4 MB 体积、操作说明与截图均针对本仓库收录版本；案例页面中的新增玩法不代表本版本具备相同功能。
 
 ## 游戏介绍
 
@@ -95,6 +108,6 @@
 
 ## 许可证
 
-本项目采用 [MIT 许可证](LICENSE)，允许使用、复制、修改和分发（包括商业用途），分发时须保留版权与许可声明。软件按原样提供，不附带担保。
+仓库现有 [MIT 许可证](LICENSE) 是本仓库添加的声明，不代表已核实 Saltline 原作也采用 MIT 许可，亦不构成对原作权利的重新授权。原作授权信息尚待确认，请结合原始案例及权利人的许可说明使用。
 
 内嵌 Three.js 的版权与许可见 [第三方版权声明](THIRD_PARTY_NOTICES.md)。

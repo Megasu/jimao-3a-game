@@ -1,5 +1,11 @@
 # 第三方版权声明
 
+## Saltline 原始案例
+
+原作名称：Saltline。来源为 Felix Rieseberg 署名的 [Three Games 合集](https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin)，[Saltline 案例页面](https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp)提供作品与版本说明。合集标注使用 Claude Fable 5.2 制作。
+
+本仓库保存收到的中文版本，不主张原作原创归属。原作许可证尚未核实；本仓库的 MIT 声明不能替代原作的授权。
+
 ## Three.js r180
 
 游戏 HTML 内嵌 Three.js r180，使用 MIT 许可证。第三方代码的版权归其原作者所有。
